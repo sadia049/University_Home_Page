@@ -1,0 +1,172 @@
+
+*{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+.banner{
+	background: url("../images/banner.jpg");
+    height: 750px; 
+
+}
+.background{
+	background-color: rgb(0,0,0);
+	height: 250px;
+
+}
+.Varsity{
+	padding-top: 400px;
+	color: rgb(255,255,255);
+    font-weight: 300; 
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+.dept{
+	margin-top: 0px;
+	color: rgb(255,255,255);
+	font-weight: 600;
+	font-size: 70px;
+}
+h4{
+	padding: 30px;
+	font-weight: 700;
+}
+ul{
+	display: inline-block;
+}
+.option ul li{
+	list-style-type: none;
+	float: left;
+	font-size: 13px;
+	padding: 15px;
+    font-weight: 700;
+	
+}
+.call{
+	font-weight: 700;
+	color: rgb(50, 139, 168);
+}
+.num{
+    color:rgb(255,255,255);
+    font-size: 30px;
+    font-weight: 300;
+}
+.background2{
+	background-color: #F2F2F2;
+	height: 500px;
+	margin-top: 0px;
+}
+
+.row{
+	padding: 100px;
+}
+
+.square{
+	background-color: white;
+	height: 300px;
+
+}
+.square h5{
+	color: black;
+	font-weight: 600;
+    padding-top: 100px;
+}
+.square p{
+	color: rgb(190, 190, 190);
+    font-weight: 400;
+    padding: 50px;
+}
+.background3{
+	background-color: rgb(22, 201, 204);
+}
+.grid{
+	height: 320px;
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+	margin-bottom: 24px;
+}
+.grid-def{
+	height: 320px;
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+	margin-bottom: 0px;
+	background-color: rgb(40, 43, 43);
+}
+.grid-def h5{
+	color: white;
+	font-weight: 800;
+	padding-top: 50px;
+}
+.grid-def p{
+	color: white;
+	font-weight: 400;
+	padding-top: 30px;
+}
+
+.grid h5{
+	color: white;
+	font-weight: 800;
+	padding-top: 50px;
+}
+.grid p{
+	color: white;
+	font-weight: 400;
+	padding-top: 30px;
+}
+.grid img{
+	border-style: none;
+	border-color: none;
+	width: 100%;
+	height: 320px;
+}
+
+
+.background4 h5{
+	padding-top: 200px;
+	color: rgb(131, 135, 135);
+	font-weight: 400;
+}
+
+.background4 h2{
+	font-weight: 600;
+
+}
+.grid2 img{
+	width: 100%;
+
+}
+.grid2 h3{
+	font-weight: 600;
+	padding: 30px;
+}
+.grid2 p{
+    padding: 0 40px;
+	color: rgb(190, 190, 190);
+    font-weight: 400;
+}
+
+.background5 img{
+    height: 20px;
+}
+.background5 p{
+    font-size: 7.5px;
+    font-weight: 800;
+    padding-top: 2px;
+}
+.end{
+	background-color: rgb(40, 43, 43);
+	padding: 100px;
+	height: 100px;
+}
+.end .Container p{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+circle{
+	border-radius: 100%;
+	height: 50px;
+    width: 50px;
+	background-color: rgb(0,0,0);
+}
